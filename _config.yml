@@ -1,7 +1,7 @@
 title: Aleksandar Karastoyanov's CV
 description: 
-url: https://karastoyanov.github.io/karastoyanov-cv/
-baseurl: ''
+url: https://karastoyanov.github.io/
+baseurl: '/karastoyanov-cv/'
 theme_skin: blue
 
 
