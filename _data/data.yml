@@ -1,108 +1,155 @@
-name: John Doe
+name: Aleksandar Karastoyanov
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: <a href='mailto:karastoqnov.alexandar@gmail.com'>E-mail
+  github: <a href='http://github.com/karastoyanov' target='_blank'>karastoyanov
+  linkedin: <a href='https://www.linkedin.com/in/aleksandar-karastoyanov/' target='_blank'>aleksandar-karastoyanov
+  phone: +359895 397 523
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Bulgarian
   - idiom: English
-  - idiom: Russian
+  - idiom: Romanian
   - idiom: French
 
-education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+# education:
+#   - degree: MSc in Informatics
+#     time: 2014-2016
+#     university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+#   - degree: BSc in Computer Science
+#     time: 2010-2014
+#     university: Ionian University
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Python
+      - NodeJS
+      - C++
+      - Ruby
+      - Regex
+      - MySQL
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - HTML
+      - CSS
   - category: DevOps
     skill:
       - Docker
       - Kubernetes 
+      - AWS
+      - Linux/UNIX
+      - ServiceNow ITOM
+  - category: Other Tech
+    skill:
+      - Basic Electronics
+      - Arduino
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  My name is Aleksandar Karastoyanov. I am born on 6th of November 1990 and currently I am located in
+  Sofia, Bulgaria. My professional background is in Retail Marketing with almost 10 years of experience in a lead multi-national company,
+  wide portfolio supplier of consumer good. However, in 2020 I've decided to pursue my long-time passion in technologies and change my career.
+  I've started to develop my skills in that direction, mostly programming languages such as Python, JS, C++, Operating Systems, Databases, etc. and
+  in 2022 successfully found myself as a Junior ServiceNow ITOM Consultant.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: ITOM Consultant
+    time: June 2022 - Present
+    company: Do IT Wise - A ServiceNow Elite Partner 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Delivery of consulting services to install, configure, and integrate software products from ServiceNow
+      with a focus on the ITOM based products (discovery, service mapping, configuration management, event management).
+      Develop custom software solutions as required through scripting and software development.
+      Prepare technical documentation as specified in customer contracts and as internally required.
+      Support sales of software and services through demonstrations, Proof of Concepts, and customer presentations.
+      Deliver projects on customer premise or remotely as required. Most engagements are remote.
+      Provide value-based assessments and workshops to help the customer maximize business results from ServiceNow software.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      ServiceNow · ServiceNow Discovery · ServiceNow ServiceMapping · CMDB · CSDM · Cloud
+                Infrastructure(AWS/Azure) · Python/JavaScript/Bash/Ruby · SQL · ITOM · Linux/UNIX · Windows Server · Kubernetes · Application
+                Development · Soft Skills
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Retail Marketing Manager
+    time: Oct 2017 - May 2022
+    company: Robert Bosch Bulgaria EOOD
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Developing strategies and tactics to boost the company’s brand awareness and product portfolio.
+      Preparing and launching promotional activities. Working close with sales department. 
+      Communication with various media buyers, advertising agencies, and other suppliers.
+                    Adjusts marketing campaigns and strategies.
+                    Managing annual marketing budget. 
+      Developing and implementing strategies for launching new products, services, and brandconcepts on
+                    the market.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      SAP ERP · Business Intelligence (BI) · Soft Skills · Business Reporting · Microsoft Power BI ·
+                    Product Management · Pricing Strategy · Budget Management · Business Planning · Product Marketing ·
+                    Business-to-Business (B2B)
+    
+  - role: After Sales Service Specialist
+    time: Nov 2014 - Oct 2017
+    company: Robert Bosch Romania SRL
+    details: |
+      Technical support for the company customers and business partners.
+      Supervising the service department, Process management.
+      Responsible for the authorized after-sells service centers in Bulgaria, Romania, and Republic of Moldova.
+    technologies_used: |
+      SAP Business Warehouse (SAP BW) · Warehouse Operations · Technical Support · Electro-mechanical Troubleshooting · Reporting & Analysis · 
+                    Microsoft Access · Microsoft Power BI · Customer Service
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: D. A. Tsenov Academy of Economics - Svishtov, Bulgaria
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: Master Degree - SME Business Administration and Management
+    conference: 2013 - 2014
 
-  - title: Second title of paper. An interesting one too.
+  - title: Dunarea de Jos Univercity - Galati, Romania
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Bachelor Degree - Management Business and Administration  
+    conference: 2010 - 2013
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: ServiceNow Task Verifier
+    link: https://github.com/snow-environment/snow-environment.github.io
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      ServiceNow Task Verifier is a web application giving the possibility to exercise and train with pre-made assignements on a 
+      ServiceNow Developer Instance and check the tasks.<br>
+      Tech Stack: HTML/CSS/JavaScript/Ruby, ServiceNow, Oracle VM Virtual Box, Vagrant, REST API, Obsidian, Git, GitHub Projects
 
-  - title: Cool Project 
-    link: #
+  - title: Project Prometeus
+    link: https://github.com/karastoyanov/project-prometeus
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Custom ServiceNow Pattern designed to discover and map .ork files and it's contents generated by Open Rocket Application<br>
+      Tech Stack: Python, Ubuntu Server/Fedora Workstation, ServiceNow, Oracle VM Virtual Box, Vagrant, Open Rocket Application, Git
+  
+  - title: Poki IR Autonomous Rover
+    link: https://github.com/karastoyanov/Poki_v1.0
+    details: |
+      Autonomous IR Arduino rover build on Pololu Zumo chasis, using two DC motors with 50:1 ratio, controlled by a VH5583 motor driver.<br>
+      Tech Stack: Arduino, C++, Fritzing, Git
+  
+  - title: All App Convertor
+    link: https://github.com/karastoyanov/all-app-converter
+    details: |
+      Unit convertor Python GUI application build with QT Framework.<br>
+      Tech Stack: Python, QT, Git
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  - time: 
+    role: Astronomy & Astrophotography
+    company: 
+    details: 
+  
+  - time: 
+    role: Playing Guitar
+    company: 
+    details: 
+      
